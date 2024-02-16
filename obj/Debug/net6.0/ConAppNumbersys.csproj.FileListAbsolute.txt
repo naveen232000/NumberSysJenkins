@@ -1,0 +1,14 @@
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\bin\Debug\net6.0\ConAppNumbersys.exe
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\bin\Debug\net6.0\ConAppNumbersys.deps.json
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\bin\Debug\net6.0\ConAppNumbersys.runtimeconfig.json
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\bin\Debug\net6.0\ConAppNumbersys.dll
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\bin\Debug\net6.0\ConAppNumbersys.pdb
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.AssemblyInfoInputs.cache
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.AssemblyInfo.cs
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.dll
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\refint\ConAppNumbersys.dll
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.pdb
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ConAppNumbersys.genruntimeconfig.cache
+D:\Mphasis\Phase 3\16fib\ConAppNumbersys\ConAppNumbersys\obj\Debug\net6.0\ref\ConAppNumbersys.dll
